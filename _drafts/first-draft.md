@@ -1,0 +1,5 @@
+---
+layout : post
+---
+
+Drafts content
